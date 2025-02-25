@@ -1,0 +1,6 @@
+* [https://github.com/touretzkyds/ai4k12/wiki/Book:-A-Fresh-Squeeze-On-Data](https://github.com/touretzkyds/ai4k12/wiki/Book:-A-Fresh-Squeeze-On-Data)
+* [https://github.com/touretzkyds/ai4k12/wiki/Book:-How-to-Train-Your-Robot](https://github.com/touretzkyds/ai4k12/wiki/Book:-How-to-Train-Your-Robot)
+* [https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-AI-and-ME](https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-AI-and-ME)
+* [https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-AI-Made-Simple](https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-AI-Made-Simple)
+* [https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-The-World-of-Artificial-Intelligence-4D](https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-The-World-of-Artificial-Intelligence-4D)
+* [https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-Tinker-Toddlers](https://github.com/touretzkyds/ai4k12/wiki/Book-Series:-Tinker-Toddlers)
