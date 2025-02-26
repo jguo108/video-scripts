@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI Books for Kids/Resources.md",
+                "file": "AI/Explained AI to Kids/AI Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "AI Script"
             }
           }
         ]
@@ -170,20 +170,23 @@
   },
   "active": "c0f4995f550c4057",
   "lastOpenFiles": [
+    "AI/Explained AI to Kids/My Script.md",
+    "AI/Explained AI to Kids/AI Script.md",
     "AI/Explained AI to Kids/Resources.md",
     "AI/AI Books for Kids/Resources.md",
-    "AI/AI Books for Kids",
-    "编程类/Unplugged Coding/Resources.md",
-    "AI/Explained AI to Kids",
-    "编程类/K12 CS/Resources.md",
     "AI/AI Literacy/Resources.md",
-    "编程类/K12 CS",
+    "数学",
+    "AI/AI Books for Kids",
+    "编程/Unplugged Coding/Resources.md",
+    "AI/Explained AI to Kids",
+    "编程/K12 CS/Resources.md",
+    "编程/K12 CS",
     "AI/AI Literacy",
     "AI",
     "编程类/AI",
-    "编程类/Unplugged Coding/文案.md",
+    "编程/Unplugged Coding/文案.md",
     "内容建议/DeepSeek建议.md",
-    "编程类/Unplugged Coding",
+    "编程/Unplugged Coding",
     "其他/自我介绍.md",
     "内容建议"
   ]
