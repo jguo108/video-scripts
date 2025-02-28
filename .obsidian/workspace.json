@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45f2dcd31104c562",
+        "id": "5719cabb876258fe",
         "type": "tabs",
         "children": [
           {
-            "id": "7799e35419bcf525",
+            "id": "487e195a59f38281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Explained AI to Kids/My Script.md",
+                "file": "编程/Unplugged Coding/My Script.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,20 +173,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "f75c7f55ea54ac27",
+        "id": "a7601b028388c5f5",
         "type": "window",
         "children": [
           {
-            "id": "43698ed3bef797c8",
+            "id": "2fc2d24805256c3f",
             "type": "tabs",
             "children": [
               {
-                "id": "c0f4995f550c4057",
+                "id": "7799e35419bcf525",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AI/Explained AI to Kids/AI Script.md",
+                    "file": "编程/Unplugged Coding/AI Script.md",
                     "mode": "source",
                     "source": false
                   },
@@ -198,8 +198,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 2243,
-        "y": 221,
+        "x": 2118,
+        "y": 327,
         "width": 1577,
         "height": 971,
         "maximize": true,
@@ -207,11 +207,18 @@
       }
     ]
   },
-  "active": "7799e35419bcf525",
+  "active": "487e195a59f38281",
   "lastOpenFiles": [
-    "AI/Explained AI to Kids/Resources.md",
+    "编程/Unplugged Coding/AI Script.md",
+    "编程/Unplugged Coding/My Script.md",
+    "内容建议/选题.md",
+    "内容建议/DeepSeek建议.md",
+    "内容建议/家长关心内容.md",
     "AI/Explained AI to Kids/My Script.md",
     "AI/Explained AI to Kids/AI Script.md",
+    "视频制作资源/Background Music.md",
+    "视频制作资源",
+    "AI/Explained AI to Kids/Resources.md",
     "AI/AI Books for Kids/Resources.md",
     "AI/AI Literacy/Resources.md",
     "数学",
@@ -223,8 +230,6 @@
     "AI/AI Literacy",
     "AI",
     "编程类/AI",
-    "编程/Unplugged Coding/文案.md",
-    "内容建议/DeepSeek建议.md",
     "编程/Unplugged Coding",
     "其他/自我介绍.md",
     "内容建议"
