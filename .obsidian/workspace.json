@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/Book Review - Math Mind/My Script.md",
+                "file": "编程/Learn coding in English/DeepSeek优化文案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Script"
+              "title": "DeepSeek优化文案"
+            }
+          },
+          {
+            "id": "72591ff19032cc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Learn coding in English/文案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "文案"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/Book Review - Math Mind/My Script.md",
+                "file": "编程/Learn coding in English/文案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My Script"
+              "title": "Outgoing links from 文案"
             }
           },
           {
@@ -156,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,18 +183,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1f5410c0833ca1a",
+  "floating": {
+    "id": "341b4488bafc6807",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fd15aaf3f606866b",
+        "type": "window",
+        "children": [
+          {
+            "id": "3155feeb69989189",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8211d5caeaf80251",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "编程/Learn coding in English/DeepSeek优缺点分析.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DeepSeek优缺点分析"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2108,
+        "y": 274,
+        "width": 1327,
+        "height": 972,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "72591ff19032cc22",
   "lastOpenFiles": [
+    "编程/Learn coding in English/DeepSeek优缺点分析.md",
+    "编程/Learn coding in English/文案.md",
+    "编程/Learn coding in English/DeepSeek优化文案.md",
+    "编程/Learn coding in English/DeepSeek Script.md",
+    "编程/Learn coding in English/Gemini Script.md",
+    "数学/Book Review - Math Mind/My Script.md",
+    "编程/Unplugged Coding/My Script.md",
     "AI/Explained AI to Kids/AI Script.md",
     "[When.md",
     "视频制作资源/Background Music.md",
-    "编程/Learn coding in English/My Script.md",
-    "数学/Book Review - Math Mind/My Script.md",
     "数学/Math and Coding/AI Script.md",
     "AI/Explained AI to Kids/My Script.md",
-    "编程/Unplugged Coding/My Script.md",
-    "编程/Learn coding in English/DeepSeek Script.md",
-    "编程/Learn coding in English/Gemini Script.md",
     "编程/Learn coding in English",
     "其他/读书分享文案（短视频版）.md",
     "数学/Book Review - Math Mind",
