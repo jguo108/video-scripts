@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "文案"
             }
+          },
+          {
+            "id": "0ca6e19ba69dd5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "读书笔记prompt"
+            }
+          },
+          {
+            "id": "ca1dd040a5f446cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Learn coding in English/文案.md",
+                "file": "读书笔记prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 文案"
+              "title": "Outgoing links from 读书笔记prompt"
             }
           },
           {
@@ -183,49 +211,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "341b4488bafc6807",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fd15aaf3f606866b",
-        "type": "window",
-        "children": [
-          {
-            "id": "3155feeb69989189",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8211d5caeaf80251",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "编程/Learn coding in English/DeepSeek优缺点分析.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DeepSeek优缺点分析"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2108,
-        "y": 274,
-        "width": 1327,
-        "height": 972,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "72591ff19032cc22",
+  "active": "0ca6e19ba69dd5d2",
   "lastOpenFiles": [
-    "编程/Learn coding in English/DeepSeek优缺点分析.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 9.md",
+    "读书笔记prompt.md",
+    "Untitled 8.md",
+    "Writing a Good Book Review Script.md",
     "编程/Learn coding in English/文案.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "编程/Learn coding in English/DeepSeek优缺点分析.md",
     "编程/Learn coding in English/DeepSeek优化文案.md",
     "编程/Learn coding in English/DeepSeek Script.md",
     "编程/Learn coding in English/Gemini Script.md",
@@ -241,23 +242,12 @@
     "数学/Book Review - Math Mind",
     "编程/K12 CS/Help Math with Coding/AI Script.md",
     "编程/K12 CS/Help Math with Coding",
-    "数学/Math and Coding/OECD Report.md",
     "数学/Math and Coding",
-    "内容建议/选题.md",
-    "内容建议/家长关心内容.md",
-    "编程/Unplugged Coding/AI Script.md",
-    "内容建议/DeepSeek建议.md",
     "视频制作资源",
-    "AI/Explained AI to Kids/Resources.md",
-    "AI/AI Books for Kids/Resources.md",
-    "AI/AI Literacy/Resources.md",
     "数学",
     "AI/AI Books for Kids",
-    "编程/Unplugged Coding/Resources.md",
     "AI/Explained AI to Kids",
-    "编程/K12 CS/Resources.md",
     "编程/K12 CS",
-    "AI/AI Literacy",
-    "其他/自我介绍.md"
+    "AI/AI Literacy"
   ]
 }
