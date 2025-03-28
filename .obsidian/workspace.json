@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1f5410c0833ca1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/Learn coding in English/DeepSeek优化文案.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DeepSeek优化文案"
-            }
-          },
-          {
-            "id": "72591ff19032cc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/Learn coding in English/文案.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文案"
-            }
-          },
-          {
             "id": "0ca6e19ba69dd5d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记prompt.md",
+                "file": "Prompt to Create YT Style Book Review Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读书笔记prompt"
+              "title": "Prompt to Create YT Style Book Review Video"
             }
           },
           {
@@ -55,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Book Summary Prompts.md",
+                "file": "Prompt to Create YT Style Book Review Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Book Summary Prompts"
+              "title": "Prompt to Create YT Style Book Review Video"
             }
           },
           {
@@ -69,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts for Getting Book Summary.md",
+                "file": "Prompts to Get a Good Book Summary (DeepSeek).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts for Getting Book Summary"
+              "title": "Prompts to Get a Good Book Summary (DeepSeek)"
             }
           },
           {
@@ -83,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts for Getting Book Summary.md",
+                "file": "Writing a Good Book Review Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts for Getting Book Summary"
+              "title": "Writing a Good Book Review Script"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "right": {
     "id": "9f062f6f3ac325cb",
@@ -184,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts for Getting Book Summary.md",
+                "file": "Writing a Good Book Review Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prompts for Getting Book Summary"
+              "title": "Outgoing links from Writing a Good Book Review Script"
             }
           },
           {
@@ -239,13 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ee44aab09617024",
+  "active": "cb878117b291e8f7",
   "lastOpenFiles": [
-    "Argument Structures of Non-fiction Books.md",
-    "Prompts for Getting Book Summary.md",
-    "My Book Summary Prompts.md",
+    "Prompt to Create YT Style Book Review Video.md",
+    "Prompts to Get a Good Book Summary (DeepSeek).md",
+    "Prompts to Get a Good Book Summary.md",
     "Writing a Good Book Review Script.md",
-    "读书笔记prompt.md",
+    "Argument Structures of Non-fiction Books.md",
     "Test Book Script.md",
     "Untitled 1.md",
     "Untitled 9.md",

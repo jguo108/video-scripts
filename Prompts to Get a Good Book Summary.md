@@ -48,8 +48,8 @@ Given the following different types of typical argument structures use in non-fi
 
 Identify the central thesis of this book. Explain it in one sentence, then elaborate as if explaining it to someone who hasn’t read the book. Include:
 * The central claim or purpose of the book
-* The key problem or question the author addresses
-* Explain why the argument matters and its significance
+* The key problems or questions the author is trying to address
+* Explain why that matters and its significance
 * The historical, social, theoretical context in which to ground the argument
 * The most surprising findings/conclusions
 

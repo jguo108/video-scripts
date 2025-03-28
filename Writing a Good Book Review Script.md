@@ -1,6 +1,6 @@
 ### Prompt
 
-*I read a book anout AI and want to write a Youtube style video script to explain what this book is about and recommend that to people who might be interested in the same topic. This script is going to eventually turned in to a video. Now, can you suggest the best way to write such a script? What should the structure be, what how can I start the script to be attractive, how the main body should be written to nicely introduce the main ideas in the book and how the script should end that would leave people thinking?*
+*I read a book about AI and want to write a Youtube style video script to explain what this book is about and recommend that to people who might be interested in the same topic. This script is going to eventually turned in to a video. Now, can you suggest the best way to write such a script? What should the structure be, what how can I start the script to be attractive, how the main body should be written to nicely introduce the main ideas in the book and how the script should end that would leave people thinking?*
 
 ### Output
 
