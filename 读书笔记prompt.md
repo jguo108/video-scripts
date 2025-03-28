@@ -1,4 +1,48 @@
 
+### Chapter by Chapter Breakdown
+
+Summarize [Book Title] chapter by chapter. For each chapter, list:
+* Key themes
+* Main arguments
+* Memorable quotes or examples
+* How it connects to the book’s overall message.
+###  ​Key Takeaways + Critical Analysis
+
+Act as a literary critic. Identify the 10 most important ideas in [Book Title]. For each idea:
+* Explain it in simple terms  
+* Provide supporting evidence from the text  
+* Analyze its originality compared to other works in this genre_
+
+### Explain Like I’m 5
+
+Explain the core message of [Book Title] in 3 sentences a 10-year-old could understand. Use analogies related to [topic the reader cares about, e.g., sports, video games].
+
+### Visual Summaries
+
+* Create a mind map outline for [Book Title] focusing on cause-effect relationships
+* Feed the output into ​**Miro** or ​**MindMeister** to auto-generate visuals
+
+### Dialogue with the Author’s "Ghost"
+
+You are [Author’s Name]. Based on the book [Title], how would you answer these questions about your work?
+* What’s the most misunderstood idea in your book?
+* What would you add if writing it today?
+
+### Comparative Summaries
+
+Compare [Book Title] to [Similar Book]. Highlight:
+* 3 areas where they agree  
+* 3 areas where they clash  
+* 1 groundbreaking idea unique to each
+
+### Skeptic’s Summary
+
+List 5 weakest claims in [Book Title]. For each:
+* Quote the original text  
+* Provide counterarguments from peer-reviewed studies  
+* Suggest better evidence the author could have used
+
+
 ### Prompt of Overview of Entire Book
 
 Assuming you are the author of this book. Now I want you to do the following:

@@ -50,21 +50,63 @@
             }
           },
           {
-            "id": "ca1dd040a5f446cb",
+            "id": "d2992410a13fdaae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "My Book Summary Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "My Book Summary Prompts"
+            }
+          },
+          {
+            "id": "9ee44aab09617024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Book Summary Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Book Summary Prompts"
+            }
+          },
+          {
+            "id": "d4d99cb2094cac3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argument Structures of Non-fiction Books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Argument Structures of Non-fiction Books"
+            }
+          },
+          {
+            "id": "cb878117b291e8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts for Getting Book Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompts for Getting Book Summary"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记prompt.md",
+                "file": "My Book Summary Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 读书笔记prompt"
+              "title": "Outgoing links from My Book Summary Prompts"
             }
           },
           {
@@ -211,12 +253,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ca6e19ba69dd5d2",
+  "active": "9ee44aab09617024",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Prompts for Getting Book Summary.md",
+    "My Book Summary Prompts.md",
+    "Argument Structures of Non-fiction Books.md",
+    "读书笔记prompt.md",
+    "Test Book Script.md",
     "Untitled 1.md",
     "Untitled 9.md",
-    "读书笔记prompt.md",
     "Untitled 8.md",
     "Writing a Good Book Review Script.md",
     "编程/Learn coding in English/文案.md",
@@ -236,11 +281,8 @@
     "[When.md",
     "视频制作资源/Background Music.md",
     "数学/Math and Coding/AI Script.md",
-    "AI/Explained AI to Kids/My Script.md",
     "编程/Learn coding in English",
-    "其他/读书分享文案（短视频版）.md",
     "数学/Book Review - Math Mind",
-    "编程/K12 CS/Help Math with Coding/AI Script.md",
     "编程/K12 CS/Help Math with Coding",
     "数学/Math and Coding",
     "视频制作资源",
