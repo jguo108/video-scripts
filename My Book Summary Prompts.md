@@ -44,8 +44,6 @@ Given the following different types of typical argument structures use in non-fi
     ◦ **Example**: Tech ethics books debating AI’s benefits vs. risks.
 
 
-
-
 ### Core Message Extraction
 
 Identify the central thesis of this book. Explain it in one sentence, then elaborate as if explaining it to someone who hasn’t read the book. Include:
@@ -54,11 +52,6 @@ Identify the central thesis of this book. Explain it in one sentence, then elabo
 * Explain why the argument matters and its significance
 * The historical, social, theoretical context in which to ground the argument
 * The most surprising findings/conclusions
-
----
-### Visual Summaries
-
-* Create a mind map outline for [Book Title] focusing on cause-effect relationships
 
 ---
 ### Chapter by Chapter Breakdown
@@ -73,6 +66,12 @@ Summarize this book chapter by chapter. For each chapter, list:
 ### Counterarguments
 
 Has the author identified any potential critiques or opposing views? If so, how did he/she addresses the refutes counterarguments, using evidence or logic?
+
+---
+
+### Key Concepts
+
+List all the key concepts in this book and show how they relate to each other
 
 ---
 
