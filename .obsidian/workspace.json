@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts to Get a Good Book Summary (DeepSeek).md",
+                "file": "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts to Get a Good Book Summary (DeepSeek)"
+              "title": "Prompts to Get a Good Book Summary"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing a Good Book Review Script.md",
+                "file": "Prompts to Get a Good Book Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing a Good Book Review Script"
+              "title": "Prompts to Get a Good Book Summary"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing a Good Book Review Script.md",
+                "file": "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Writing a Good Book Review Script"
+              "title": "Outgoing links from Prompts to Get a Good Book Summary"
             }
           },
           {
@@ -211,12 +211,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb878117b291e8f7",
+  "active": "882ffecc8af66c59",
   "lastOpenFiles": [
-    "Prompt to Create YT Style Book Review Video.md",
-    "Prompts to Get a Good Book Summary (DeepSeek).md",
-    "Prompts to Get a Good Book Summary.md",
-    "Writing a Good Book Review Script.md",
+    "Resources/AI Prompts for Book Reviews",
+    "Resources/AI Prompts for Book Reviews/Prompt to Create YT Style Book Review Video.md",
+    "Resources",
+    "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary.md",
+    "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary (DeepSeek).md",
+    "Resources/AI Prompts for Book Reviews/Writing a Good Book Review Script.md",
     "Argument Structures of Non-fiction Books.md",
     "Test Book Script.md",
     "Untitled 1.md",
@@ -238,7 +240,6 @@
     "AI/Explained AI to Kids/AI Script.md",
     "[When.md",
     "视频制作资源/Background Music.md",
-    "数学/Math and Coding/AI Script.md",
     "编程/Learn coding in English",
     "数学/Book Review - Math Mind",
     "编程/K12 CS/Help Math with Coding",
@@ -246,8 +247,6 @@
     "视频制作资源",
     "数学",
     "AI/AI Books for Kids",
-    "AI/Explained AI to Kids",
-    "编程/K12 CS",
-    "AI/AI Literacy"
+    "AI/Explained AI to Kids"
   ]
 }

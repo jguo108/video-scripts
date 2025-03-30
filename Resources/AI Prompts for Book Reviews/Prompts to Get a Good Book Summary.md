@@ -44,7 +44,7 @@ Given the following different types of typical argument structures use in non-fi
     ◦ **Example**: Tech ethics books debating AI’s benefits vs. risks.
 
 
-### Core Message Extraction
+### Core Message
 
 Identify the central thesis of this book. Explain it in one sentence, then elaborate as if explaining it to someone who hasn’t read the book. Include:
 * The central claim or purpose of the book

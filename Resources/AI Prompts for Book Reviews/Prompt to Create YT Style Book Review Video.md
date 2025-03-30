@@ -1,6 +1,6 @@
 
 
-I want to shoot a Youtube video talking about this book to my subscribers, like a casual face to face chat. Can you write me a 3000-word script for this? Ideally, I want the script to contain three parts: Introduction, Main Body and Conclusion. Here are the general guidelines for you to follow for each part.
+I want to shoot a Youtube video talking about this book to my subscribers, like a casual face to face chat. Can you write me a 3000-word script for this? Ideally, I want the script to contain three parts: Introduction, Main Body and Conclusion. Here are the general guidelines for you to follow for each part. Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
 
 For the *Introduction*:
 
@@ -8,6 +8,8 @@ For the *Introduction*:
 * Share your own experience with the topic or your reasons for being interested in the topic to establish a personal connection with your audience.
 * Clearly state the title and author of the book. Briefly mention what the book is about and why you found it interesting or important.
 * Outline what the video will cover. Tell your viewers what they will learn and why they should keep watching.
+
+Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
 
 For the *Main Body*:
 
@@ -27,8 +29,12 @@ For the *Main Body*:
 * Identify who might benefit most from reading it.
 * Highlight the book's unique value or contribution to the topic.
 
+Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
+
 For the *Conclusion*:
 * Briefly recap the main points of the book and your key takeaways.
 * Encourage viewers to read the book, explore the topic further, or share their own thoughts in the comments.
 * End with a question or statement that leaves viewers thinking about the implications of AI or the ideas discussed in the book.
 - Thank viewers for watching, and include any standard YouTube outro elements (subscribe reminders, etc.).
+
+Now you can start composing the entire script, Go!
