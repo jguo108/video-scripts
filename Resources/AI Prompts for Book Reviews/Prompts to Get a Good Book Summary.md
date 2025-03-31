@@ -1,5 +1,5 @@
 
-### Argument Structure
+### 0. Argument Structure
 
 Given the following different types of typical argument structures use in non-fiction books, can you tell me what structure this book uses? It can be a single structure or a combine of them:
 
@@ -43,8 +43,7 @@ Given the following different types of typical argument structures use in non-fi
     ◦ **Structure**: Weigh arguments for and against a position before advocating a stance.  
     ◦ **Example**: Tech ethics books debating AI’s benefits vs. risks.
 
-
-### Core Message
+### 1. Core Message
 
 Identify the central thesis of this book. Explain it in one sentence, then elaborate as if explaining it to someone who hasn’t read the book. Include:
 * The central claim or purpose of the book
@@ -54,28 +53,28 @@ Identify the central thesis of this book. Explain it in one sentence, then elabo
 * The most surprising findings/conclusions
 
 ---
-### Chapter by Chapter Breakdown
+### 2. Chapter by Chapter
 
 Summarize this book chapter by chapter. For each chapter, list:
 * Key themes/claims
-* The important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Use specific page numbers/chapter references where possible.
+* The important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Provide details of these evidence. Use specific page numbers/chapter references where possible.
 * How these evidence are relevant or supporting the theme/claims of this chapter
 * How this chapter's themes/claims are relevant or supporting the overall thesis of the book
 
 ---
-### Counterarguments
+### 3. Counterarguments
 
 Has the author identified any potential critiques or opposing views? If so, how did he/she addresses the refutes counterarguments, using evidence or logic?
 
 ---
 
-### Key Concepts
+### 4. Key Concepts
 
 List all the key concepts in this book and show how they relate to each other
 
 ---
 
-### Entire Book Argument Hierarchy  
+### 5. Hierarchy  
 
 Create a pyramid diagram in the form of a main map for the book's arguments:
 * Top: Primary thesis  
@@ -84,7 +83,7 @@ Create a pyramid diagram in the form of a main map for the book's arguments:
 Explain how each layer reinforces the others. Use specific page numbers/chapter references where possible
 
 ---
-### Comparative Flow Analysis  
+### 6. Comparative Flow Analysis  
 
 Analyze how the author builds their case across the book by answering:  
 
@@ -93,7 +92,7 @@ Analyze how the author builds their case across the book by answering:
 * Where does the author use 'bridging' concepts to connect seemingly unrelated ideas?
 
 ---
-### Implementation Roadmap
+### 7. Action
 
 Transform the book's lessons into actionable steps:  
 * Core Principle 
@@ -103,7 +102,7 @@ Transform the book's lessons into actionable steps:
 Cite where each step appears in the text
 
 ---
-### Skeptic’s Summary
+### 8. Skeptics
 
 List 5 weakest claims in this book. For each:
 * Quote the original text  
@@ -111,7 +110,7 @@ List 5 weakest claims in this book. For each:
 * Suggest better evidence the author could have used
 
 ---
-### Comparative Summaries
+### 9. Comparative Summary
 
 Compare [Book Title] to [Similar Book]. Highlight:
 * 3 areas where they agree  
@@ -119,3 +118,7 @@ Compare [Book Title] to [Similar Book]. Highlight:
 * 1 groundbreaking idea unique to each
 
 ---
+
+### 10. References
+
+List all the most important and frequently referenced interviews/talks/articles/books in this book

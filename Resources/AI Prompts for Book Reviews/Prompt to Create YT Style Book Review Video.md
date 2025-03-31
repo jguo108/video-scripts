@@ -1,17 +1,15 @@
 
 
-I want to shoot a Youtube video talking about this book to my subscribers, like a casual face to face chat. Can you write me a 3000-word script for this? Ideally, I want the script to contain three parts: Introduction, Main Body and Conclusion. Here are the general guidelines for you to follow for each part. Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
+I want to shoot a Youtube video talking about this book to my subscribers, like a casual face to face chat. Can you write me a 3000-word script for this? Ideally, I want the script to contain three parts: Introduction, Main Body and Call for Action. Here are the general guidelines for you to follow for each part. Wait for the requirements for the third part "Call for Action" to be given to you before starting to write the script.
 
-For the *Introduction*:
+Include the following points for the *Introduction*:
 
 * Start with a compelling question, a surprising statistic, or a brief, engaging anecdote related to the main theme of this book to grab the viewer's attention
 * Share your own experience with the topic or your reasons for being interested in the topic to establish a personal connection with your audience.
 * Clearly state the title and author of the book. Briefly mention what the book is about and why you found it interesting or important.
 * Outline what the video will cover. Tell your viewers what they will learn and why they should keep watching.
 
-Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
-
-For the *Main Body*:
+Include the following points for the *Main Body*:
 
 * Present the main ideas of the book in a clear, concise, and engaging way.
 * Use examples from the book to illustrate your points and make them more relatable.
@@ -29,12 +27,9 @@ For the *Main Body*:
 * Identify who might benefit most from reading it.
 * Highlight the book's unique value or contribution to the topic.
 
-Please do not write the script yet, wait until I have given you the guideline for each part and say "Go"
-
-For the *Conclusion*:
+Include the following pointers for the *Call for Action*:
 * Briefly recap the main points of the book and your key takeaways.
 * Encourage viewers to read the book, explore the topic further, or share their own thoughts in the comments.
+* Discuss both the immediate and long-term actions we can take after reading this book.
 * End with a question or statement that leaves viewers thinking about the implications of AI or the ideas discussed in the book.
 - Thank viewers for watching, and include any standard YouTube outro elements (subscribe reminders, etc.).
-
-Now you can start composing the entire script, Go!
