@@ -62,25 +62,19 @@ Summarize this book chapter by chapter. For each chapter, list:
 * How this chapter's themes/claims are relevant or supporting the overall thesis of the book
 
 ---
-### 3. Counterarguments
+### 3. Chapter Interconnection  
 
-Has the author identified any potential critiques or opposing views? If so, how did he/she addresses the refutes counterarguments, using evidence or logic?
+Can you explain the relationship between different chapters of this books? How they are interconnected and how they support each other?
 
 ---
-
 ### 4. Key Concepts
 
 List all the key concepts in this book and show how they relate to each other
 
 ---
+### 5. Counterarguments
 
-### 5. Hierarchy  
-
-Create a pyramid diagram in the form of a main map for the book's arguments:
-* Top: Primary thesis  
-* Middle: 3 to 7 supporting claims
-* Base: Key examples/evidence for each middle layer claims  
-Explain how each layer reinforces the others. Use specific page numbers/chapter references where possible
+Has the author identified any potential critiques or opposing views? If so, how did he/she addresses the refutes counterarguments, using evidence or logic?
 
 ---
 ### 6. Comparative Flow Analysis  
