@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/Learn coding in English/文案.md",
+                "file": "视频制作资源/Background Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文案"
+              "title": "Background Music"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Learn coding in English/文案.md",
+                "file": "视频制作资源/Background Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 文案"
+              "title": "Outgoing links from Background Music"
             }
           },
           {
@@ -170,6 +170,7 @@
   },
   "active": "9ee44aab09617024",
   "lastOpenFiles": [
+    "编程/Learn coding in English/文案.md",
     "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary.md",
     "Resources/AI Prompts for Book Reviews/Writing a Good Book Review Script.md",
     "Resources/AI Prompts for Book Reviews/Prompt to Create YT Style Book Review Video.md",
@@ -181,7 +182,6 @@
     "Untitled 1.md",
     "Untitled 9.md",
     "Untitled 8.md",
-    "编程/Learn coding in English/文案.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
