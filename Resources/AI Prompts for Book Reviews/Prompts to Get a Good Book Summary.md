@@ -43,6 +43,40 @@ Given the following different types of typical argument structures use in non-fi
     ◦ **Structure**: Weigh arguments for and against a position before advocating a stance.  
     ◦ **Example**: Tech ethics books debating AI’s benefits vs. risks.
 
+### 0. Argument Structure
+
+Given the following different types of typical argument structures use in non-fiction books, can you tell me what structure this book uses? It can be a single structure or a combine of them:
+
+1. **Problem-Solution**:  
+   • **Structure**: Identify a problem, analyze its causes, and propose solutions.  
+
+2. **Chronological**:  
+   • **Structure**: Present ideas or events in sequential order, often to show historical progression or development.  
+
+3. **Compare and Contrast**:  
+   • **Structure**: Examine similarities and differences between ideas, theories, or subjects.  
+
+4. **Cause and Effect**:  
+   • **Structure**: Explore relationships between actions/events (causes) and outcomes (effects).  
+
+5. **Thematic**:  
+   • **Structure**: Organize content by themes or topics, each supporting the central argument.  
+
+6. **Thesis-Support**:  
+   • **Structure**: State a central claim upfront, then provide evidence, data, and analysis to validate it.  
+
+7. **Narrative/Story-Driven**:  
+   • **Structure**: Use anecdotes, case studies, or personal stories to illustrate points.  
+
+8. **List-Based**:  
+   • **Structure**: Present ideas as a numbered list of principles, steps, or rules.  
+
+9. **Analytical**:  
+   • **Structure**: Break down complex subjects into components for detailed examination.  
+
+10. **Pro-Con**:  
+    ◦ **Structure**: Weigh arguments for and against a position before advocating a stance.  
+
 ### 1. Core Message
 
 Identify the central thesis of this book. Explain it in one sentence, then elaborate as if explaining it to someone who hasn’t read the book. Include:
@@ -57,7 +91,7 @@ Identify the central thesis of this book. Explain it in one sentence, then elabo
 
 Summarize this book chapter by chapter. For each chapter, list:
 * Key themes/claims
-* The important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Provide details of these evidence. Use specific page numbers/chapter references where possible.
+* The important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Please make sure you provide extended details of each evidence. Use specific page numbers/chapter references where possible.
 * How these evidence are relevant or supporting the theme/claims of this chapter
 * How this chapter's themes/claims are relevant or supporting the overall thesis of the book
 
