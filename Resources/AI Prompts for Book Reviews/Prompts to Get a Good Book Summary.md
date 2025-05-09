@@ -89,11 +89,12 @@ Identify the central thesis of this book. Explain it in one sentence, then elabo
 ---
 ### 2. Chapter by Chapter
 
-Summarize this book chapter by chapter. For each chapter, list:
-* Key themes/claims
-* The important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Please make sure you provide extended details of each evidence. Use specific page numbers/chapter references where possible.
-* How these evidence are relevant or supporting the theme/claims of this chapter
-* How this chapter's themes/claims are relevant or supporting the overall thesis of the book
+Summarize this book chapter by chapter. For each chapter:
+* Use one paragraph to summarize the main content of this chapter
+* List key themes/claims
+* Show the important evidence such as data, statistics, quotes, case studies or anecdotes supporting the theme/claims. Please make sure you provide extended details of each evidence. Use specific page numbers/chapter references where possible.
+* Explain how these evidence are relevant or supporting the theme/claims of this chapter
+* Explain how this chapter's themes/claims are relevant or supporting the overall thesis of the book
 
 ---
 ### 3. Chapter Interconnection  
