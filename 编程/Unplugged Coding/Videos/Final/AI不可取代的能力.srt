@@ -1,0 +1,324 @@
+1
+00:00:00,000 --> 00:00:02,433
+a lot of these AI tools are getting better
+
+2
+00:00:02,533 --> 00:00:04,666
+but that only means they can do
+
+3
+00:00:04,666 --> 00:00:06,200
+certain set of instructions
+
+4
+00:00:06,200 --> 00:00:07,633
+which are seen in data
+
+5
+00:00:07,700 --> 00:00:11,400
+you still need to provide AI what to do right
+
+6
+00:00:11,400 --> 00:00:13,533
+you still need to be able to describe it
+
+7
+00:00:13,633 --> 00:00:14,333
+and that
+
+8
+00:00:14,333 --> 00:00:18,000
+ability to describe what are the tasks AI should do
+
+9
+00:00:18,000 --> 00:00:21,200
+what are the programs to be written is still important
+
+10
+00:00:21,433 --> 00:00:24,733
+I think one job that will not be replaced by AI
+
+11
+00:00:24,733 --> 00:00:27,100
+is the ability to be curious
+
+12
+00:00:27,100 --> 00:00:28,933
+and go after hard problems
+
+13
+00:00:28,933 --> 00:00:30,133
+so for young people
+
+14
+00:00:30,133 --> 00:00:34,033
+my advice is not to be afraid of AI or worry
+
+15
+00:00:34,200 --> 00:00:37,866
+what skills to learn that AI may replace them with
+
+16
+00:00:37,900 --> 00:00:40,666
+but really be in that path of curiosity
+
+17
+00:00:40,700 --> 00:00:43,833
+I always begin the classes by asking questions
+
+18
+00:00:43,833 --> 00:00:46,000
+not writing down math equations right
+
+19
+00:00:46,000 --> 00:00:47,700
+not going into the details
+
+20
+00:00:47,833 --> 00:00:49,100
+but just intuitively
+
+21
+00:00:49,100 --> 00:00:51,133
+based on everything that you've seen
+
+22
+00:00:51,133 --> 00:00:53,033
+you've done what do you think
+
+23
+00:00:53,066 --> 00:00:56,233
+many times people already may be somewhat aware of this
+
+24
+00:00:56,233 --> 00:00:57,833
+so they have some intuitive ideas
+
+25
+00:00:57,833 --> 00:01:00,266
+so that already is a good starting point
+
+26
+00:01:00,300 --> 00:01:02,333
+and sometimes they are maybe really wrong
+
+27
+00:01:02,333 --> 00:01:04,866
+they have an intuition but that's a wrong intuition
+
+28
+00:01:05,100 --> 00:01:06,000
+but it's still okay
+
+29
+00:01:06,000 --> 00:01:09,666
+because intuitions are not always the only answer right
+
+30
+00:01:09,666 --> 00:01:13,400
+so I think a lot of it comes by asking questions
+
+31
+00:01:13,400 --> 00:01:14,733
+and now you can
+
+32
+00:01:14,733 --> 00:01:17,800
+use these AI tools to get answers very quickly
+
+33
+00:01:17,800 --> 00:01:19,133
+and also verify them
+
+34
+00:01:19,133 --> 00:01:20,866
+a lot of it comes from
+
+35
+00:01:20,866 --> 00:01:23,300
+being just like curious or interested
+
+36
+00:01:23,400 --> 00:01:25,233
+that could be one specific topic
+
+37
+00:01:25,233 --> 00:01:27,733
+and if somebody is interested in music they can
+
+38
+00:01:27,733 --> 00:01:28,900
+delve deeper into that
+
+39
+00:01:28,900 --> 00:01:30,433
+if somebody is interested in art
+
+40
+00:01:30,433 --> 00:01:33,866
+so it just has to that spark has to come from within
+
+41
+00:01:33,933 --> 00:01:37,833
+and I think giving students more the freedom to pursue
+
+42
+00:01:37,866 --> 00:01:41,033
+where they are passionate where they have a spark
+
+43
+00:01:41,266 --> 00:01:43,066
+I think is going to be the future
+
+44
+00:01:43,066 --> 00:01:44,133
+and that's the right thing
+
+45
+00:01:44,133 --> 00:01:46,900
+rather than forcing everybody to learn everything
+
+46
+00:01:48,500 --> 00:01:51,666
+so my mission is to constantly be curious
+
+47
+00:01:51,666 --> 00:01:53,266
+and learning and
+
+48
+00:01:53,333 --> 00:01:55,033
+not assume that
+
+49
+00:01:55,100 --> 00:01:56,600
+any problem is easy
+
+50
+00:01:56,600 --> 00:01:58,233
+I can't imagine a world
+
+51
+00:01:58,233 --> 00:02:00,200
+where scientists will be out of jobs
+
+52
+00:02:00,200 --> 00:02:02,400
+because the definition of a scientist
+
+53
+00:02:02,433 --> 00:02:05,933
+is somebody who tackles open problems right
+
+54
+00:02:05,933 --> 00:02:09,500
+so there are harder and harder problems to tackle
+
+55
+00:02:09,500 --> 00:02:10,933
+you know if you want to look
+
+56
+00:02:11,000 --> 00:02:13,233
+at the deep secrets of our universe
+
+57
+00:02:13,233 --> 00:02:15,333
+go down to the smallest scale
+
+58
+00:02:15,433 --> 00:02:19,400
+and understand at the atomic and sub atomic level how
+
+59
+00:02:19,500 --> 00:02:22,200
+matter is constructed to of course
+
+60
+00:02:22,200 --> 00:02:23,900
+level of galaxy and beyond
+
+61
+00:02:23,900 --> 00:02:25,933
+and understand how the universe is
+
+62
+00:02:26,233 --> 00:02:29,566
+put together there are still lots of open challenges
+
+63
+00:02:29,866 --> 00:02:32,800
+to me human agency is driving
+
+64
+00:02:32,800 --> 00:02:36,133
+AI to do something that you want it to be done
+
+65
+00:02:36,133 --> 00:02:39,000
+you have the agency as a human
+
+66
+00:02:39,066 --> 00:02:41,466
+to decide what tasks AI does
+
+67
+00:02:41,466 --> 00:02:45,266
+and then you're evaluating and you're in charge right
+
+68
+00:02:45,266 --> 00:02:48,000
+so you go and verify whether what AI
+
+69
+00:02:48,000 --> 00:02:49,800
+is saying is true or not
+
+70
+00:02:49,800 --> 00:02:51,000
+and then over time
+
+71
+00:02:51,000 --> 00:02:54,333
+provide that feedback to AI and make it get better
+
+72
+00:02:55,333 --> 00:02:56,500
+AI is a tool
+
+73
+00:02:56,500 --> 00:02:58,433
+it can both help curiosity
+
+74
+00:02:58,433 --> 00:03:01,633
+but also kill it depending on how it's used right
+
+75
+00:03:01,800 --> 00:03:03,000
+so for young people
+
+76
+00:03:03,000 --> 00:03:06,866
+my advice is not to be afraid of AI or worry
+
+77
+00:03:06,933 --> 00:03:10,700
+what skills to learn that AI may replace them with
+
+78
+00:03:10,700 --> 00:03:13,466
+but really be in that path of curiosity right
+
+79
+00:03:13,466 --> 00:03:17,000
+use AI as a tool to drive that curiosity
+
+80
+00:03:17,000 --> 00:03:19,866
+learn new skills new knowledge
+
+81
+00:03:19,866 --> 00:03:22,733
+and you can do that in a much more interactive way
+
