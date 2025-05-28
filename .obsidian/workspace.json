@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8c017681a9a819e",
+            "id": "f3211a0b4768957b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/Book Review - Math Mind/My Script.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Script"
-            }
-          },
-          {
-            "id": "32413963dfaabad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Education Rethink in the Era of AI/文案.md",
+                "file": "AI/Teach Kids Not to be Human/文案.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,63 +22,34 @@
             }
           },
           {
-            "id": "31e79aad6b9f0d2b",
+            "id": "e11f4998284cf2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/Unplugged Coding/文案.md",
+                "file": "AI/Teach Kids Not to be Human/Source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文案"
+              "title": "Source"
             }
           },
           {
-            "id": "f8b2dec4b46e6642",
+            "id": "bc0cf053104de5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/AI+小红书/提示词/1. 五层结构.md",
+                "file": "AI/Teach Kids Not to be Human/样本文案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 五层结构"
-            }
-          },
-          {
-            "id": "6250ca6edf8a7a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/AI+小红书/提示词/2. 不同场景下的提示词.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. 不同场景下的提示词"
-            }
-          },
-          {
-            "id": "018bae1ae3115135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/AI+小红书/提示词/4. 文案创作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. 文案创作"
+              "title": "样本文案"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Education Rethink in the Era of AI/文案.md",
+                "file": "AI/Teach Kids Not to be Human/文案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -239,53 +196,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32413963dfaabad1",
+  "active": "f3211a0b4768957b",
   "lastOpenFiles": [
+    "AI/Education Rethink in the Era of AI/文案.md",
+    "AI/Teach Kids Not to be Human/文案.md",
+    "AI/Teach Kids Not to be Human/Source.md",
+    "AI/Teach Kids Not to be Human/样本文案.md",
+    "Resources/AI+小红书/AI工具.md",
+    "AI/Teach Kids Not to be Human/Video",
+    "AI/Teach Kids Not to be Human",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/~ortarit.tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/portarit.jpg.~tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/portarit.jpg",
+    "AI/Education Rethink in the Era of AI/video/Stock Videos/pptB579.tmp",
+    "AI/Education Rethink in the Era of AI/video/Clips/2025-05-27_15-21-41.mp4",
+    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt63C3.tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Videos/pptCCD7.tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt7446.tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt7081.tmp",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/Shalinee+Photo+Primary+Use+Dark+Background+(NYH_7933_03_QC).jpg",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/math mind.webp",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/屏幕截图 2025-05-27 144505.png",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/cluely-AI-tool-seed-funding.png",
+    "AI/Education Rethink in the Era of AI/video/Stock Images/roy.jpg",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/thumbnail_v2.jpg",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/white square.jpg",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/SL-011719-17920-65.jpg",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/roy.jpg",
     "编程/Unplugged Coding/文案.md",
     "Resources/AI+小红书/提示词/1. 五层结构.md",
-    "AI/Education Rethink in the Era of AI/文案.md",
-    "编程/Three Free Apps/Final/三款编程app.mp4",
     "数学/Book Review - Math Mind/My Script.md",
     "Resources/AI+小红书/提示词/2. 不同场景下的提示词.md",
     "Resources/AI+小红书/提示词/4. 文案创作.md",
     "AI/AI Websites for Kids/Websites.md",
-    "AI/Education Rethink in the Era of AI",
     "Resources/EdTech/Useful Websites.md",
-    "AI/AI Websites for Kids",
     "Resources/AI+小红书/提示词/AI原创度进阶策略.md",
-    "Resources/EdTech",
     "Untitled 1.md",
     "Untitled.md",
     "Resources/AI+小红书/提示词/5. 避免机器味.md",
     "Untitled 2.md",
     "Resources/AI+小红书/提示词/3. 标题工程.md",
-    "Resources/AI+小红书/提示词/Untitled",
-    "Resources/同类账号/WebCrawler/小红书/谢鹏Eric/D1192F00",
-    "Resources/AI+小红书/AI工具.md",
-    "Resources/AI+小红书/提示词",
-    "Resources/同类账号/WebCrawler/小红书/谢鹏Eric/~$statistics.xlsx",
     "Resources/同类账号/Youtuber With Similar Vibe.md",
-    "Resources/AI+小红书",
-    "Resources/同类账号/WebCrawler/小红书/工程师爸爸说教育/EE5AD900",
     "Resources/AI Prompts for Book Reviews/Questions to Ask AI for a Good Book Review.md",
     "Resources/同类账号/WebCrawler/小红书/Untitled.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/4 Key Ideas and Concepts.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/1 Thesis.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/8 Conclusions and Takeaways.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/5 Evidence and Examples.md",
-    "Resources/同类账号/小红书/谢鹏Eric/账号分析.md",
-    "Resources/AI Tools.md",
-    "家庭教育/怎么教孩子/Raising Critical Thinkers/三段法/文案.md",
-    "家庭教育/怎么教孩子/Raising Critical Thinkers/小红书笔记/文案.md",
-    "家庭教育/创造力/The One Skill AI Cannot Replace/Thumbnail/thumbnail2.jpg",
-    "家庭教育/创造力/The One Skill AI Cannot Replace/Thumbnail/thumbnail.jpg",
-    "家庭教育/创造力/The One Skill AI Cannot Replace/Thumbnail/Anima-feature.jpg",
-    "编程/Unplugged Coding/Videos/Thumbnail/thumbnail _final.jpg",
-    "编程/Unplugged Coding/Videos/Thumbnail/thumbnail large.png",
-    "编程/Unplugged Coding/Videos/Thumbnail/thumbnail.png",
-    "编程/Unplugged Coding/Videos/Stock Images/16x/Asset 4@16x.png",
-    "编程/Unplugged Coding/Videos/Stock Images/16x/Asset 2@16x.png",
-    "编程/Unplugged Coding/Videos/Stock Images/GettyImages-1071913514.jpg",
-    "编程/Unplugged Coding/Videos/Stock Images/indiClassroom04-1200x800-5b2df79.webp"
+    "Resources/同类账号/小红书/谢鹏Eric/账号分析.md"
   ]
 }
