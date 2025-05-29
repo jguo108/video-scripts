@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "53ed6636efae87c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/AI+小红书/AI工具.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI工具"
+            }
+          },
+          {
             "id": "e11f4998284cf2c9",
             "type": "leaf",
             "state": {
@@ -184,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,31 +213,32 @@
   },
   "active": "f3211a0b4768957b",
   "lastOpenFiles": [
-    "AI/Education Rethink in the Era of AI/文案.md",
-    "AI/Teach Kids Not to be Human/文案.md",
-    "AI/Teach Kids Not to be Human/Source.md",
-    "AI/Teach Kids Not to be Human/样本文案.md",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps2A6C.tmp",
+    "AI/Teach Kids Not to be Human/Video/Thumbnail/ps1F9D.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps1362.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps586.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/psE02B.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps6954.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps4CB3.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/psF971.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/psCC55.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps757A.tmp",
+    "AI/Education Rethink in the Era of AI/video/Thumbnail/ps271F.tmp",
     "Resources/AI+小红书/AI工具.md",
-    "AI/Teach Kids Not to be Human/Video",
-    "AI/Teach Kids Not to be Human",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/~ortarit.tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/portarit.jpg.~tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/portarit.jpg",
-    "AI/Education Rethink in the Era of AI/video/Stock Videos/pptB579.tmp",
-    "AI/Education Rethink in the Era of AI/video/Clips/2025-05-27_15-21-41.mp4",
-    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt63C3.tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Videos/pptCCD7.tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt7446.tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Videos/ppt7081.tmp",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/Shalinee+Photo+Primary+Use+Dark+Background+(NYH_7933_03_QC).jpg",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/math mind.webp",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/屏幕截图 2025-05-27 144505.png",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/cluely-AI-tool-seed-funding.png",
-    "AI/Education Rethink in the Era of AI/video/Stock Images/roy.jpg",
-    "AI/Education Rethink in the Era of AI/video/Thumbnail/thumbnail_v2.jpg",
-    "AI/Education Rethink in the Era of AI/video/Thumbnail/white square.jpg",
-    "AI/Education Rethink in the Era of AI/video/Thumbnail/SL-011719-17920-65.jpg",
-    "AI/Education Rethink in the Era of AI/video/Thumbnail/roy.jpg",
+    "AI/Teach Kids Not to be Human/文案.md",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/wabisabi.webp",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/wabisabi.jpg",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/golden circle.png",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/the infinite game.jpg",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/leaders eat last.jpg",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/find your why.webp",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/start with hwy.jpg",
+    "AI/Teach Kids Not to be Human/Video/Stock Images/9780241958223.jpg",
+    "AI/Teach Kids Not to be Human/Video/Thumbnail/thumbnail.jpg",
+    "AI/Teach Kids Not to be Human/Video/Thumbnail/Simon_Sinek_Web2.jpg",
+    "AI/Teach Kids Not to be Human/样本文案.md",
+    "AI/Teach Kids Not to be Human/Source.md",
+    "AI/Education Rethink in the Era of AI/文案.md",
     "编程/Unplugged Coding/文案.md",
     "Resources/AI+小红书/提示词/1. 五层结构.md",
     "数学/Book Review - Math Mind/My Script.md",
@@ -242,7 +258,6 @@
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/4 Key Ideas and Concepts.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/1 Thesis.md",
     "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/8 Conclusions and Takeaways.md",
-    "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/5 Evidence and Examples.md",
-    "Resources/同类账号/小红书/谢鹏Eric/账号分析.md"
+    "家庭教育/怎么教孩子/Raising Critical Thinkers/Structured Based Summary/5 Evidence and Examples.md"
   ]
 }
