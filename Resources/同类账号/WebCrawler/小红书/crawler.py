@@ -52,6 +52,9 @@ for file_path in all_files:
             'span').get_text(strip=True)
         count = footer.find('span', class_='count').get_text(strip=True)
 
+        if "赞" in count:
+            continue
+
         if count[-1] == '万':
             num = count[:-1]
             count = str(int(float(num) * 10000))
