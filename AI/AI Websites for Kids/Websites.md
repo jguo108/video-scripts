@@ -29,3 +29,5 @@
 [The Best Educational AI Apps and Websites for Kids — Coco Coders](https://www.cococoders.com/resources-for-parents/the-best-educational-ai-apps-and-websites-for-kids)
 
 [AI for Education](https://www.aiforeducation.io/)
+
+[10 Best AI Tools for Kids in 2025](https://www.jetlearn.com/blog/10-best-ai-tools-for-kids-in-2025-fun-safe-educational#1-curipod)

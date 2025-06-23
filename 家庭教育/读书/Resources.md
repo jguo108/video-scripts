@@ -9,4 +9,16 @@
 
 [Reading Magic: Why Reading Aloud to Our Children Will Change Their Lives Forever: Fox, Mem, Horacek, Judy: 9780156035101: Amazon.com: Books](https://www.amazon.com/Reading-Magic-Children-Change-Forever/dp/0156035103/ref=pd_sbs_d_sccl_1_4/134-3959372-8002529?pd_rd_w=LQCsz&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=1R3YCP7928AHX2642QD4&pd_rd_wg=vlcqr&pd_rd_r=4be0f546-7368-4ba2-8ade-c35d4bc72a78&pd_rd_i=0156035103&psc=1)
 
+[The Power of Showing Up: How Parental Presence Shapes Who Our Kids Become and How Their Brains Get Wired: Siegel M.D., Daniel J., Bryson, Tina Payne: 9781524797737: Amazon.com: Books](https://www.amazon.com/Power-Showing-Up-Parental-Presence/dp/1524797731/ref=pd_sbs_d_sccl_2_22/134-3959372-8002529?pd_rd_w=mlYmK&content-id=amzn1.sym.95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_p=95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_r=S0TPYH1G828GDH4FZ0T8&pd_rd_wg=VKb9Y&pd_rd_r=b73dde84-6f5a-4f5b-99d1-32c5bebdf7d7&pd_rd_i=1524797731&psc=1)
+
+[The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure: Lukianoff, Greg, Haidt, Jonathan: 9780735224919: Amazon.com: Books](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919/ref=pd_sbs_d_sccl_2_30/134-3959372-8002529?pd_rd_w=mlYmK&content-id=amzn1.sym.95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_p=95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_r=S0TPYH1G828GDH4FZ0T8&pd_rd_wg=VKb9Y&pd_rd_r=b73dde84-6f5a-4f5b-99d1-32c5bebdf7d7&pd_rd_i=0735224919&psc=1)
+
+[The Smartest Kids in the World: And How They Got That Way: Ripley, Amanda: 9781451654431: Amazon.com: Books](https://www.amazon.com/Smartest-Kids-World-They-That/dp/145165443X/ref=sr_1_1?crid=31S9TAW3ORYNQ&dib=eyJ2IjoiMSJ9.qbFlvGoaB_XB5jp5Vj-qBZkFlk8VnQlsjb2KEu26ZcQmp0OAtZoFK-kFQxTe7csPxEf5mSzuNihL2XuMxHsr7mMyOeOCxh4xI1SmJKi0BLOiWzU8reumFztfeCgRvs8IgfTcgvKrIxV-SvN7pFICMabaO0uMy6_72QQFwmwoWOYKE8j4oSncnuBTj09-IWU-JUe91iaqHfJ1DVWRFqoQm0wLkhvlWe2lV36XtRL0POE.wOj3VCBUnbBAFKJB4deBGMA3jRoEDFqvQWRNP6UrK1I&dib_tag=se&keywords=smartest+kids&qid=1750513307&s=books&sprefix=smartest+kid%2Cstripbooks%2C474&sr=1-1)
+
+
+[The Learning Game: Teaching Kids to Think for Themselves, Embrace Challenge, and Love Learning: Fábrega, Ana Lorena: 9781804090091: Amazon.com: Books](https://www.amazon.com/Learning-Game-Teaching-Themselves-Challenge/dp/1804090093/ref=pd_sbs_d_sccl_1_5/134-3959372-8002529?pd_rd_w=MVkYf&content-id=amzn1.sym.95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_p=95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_r=PGFF37ZQAAT5DX20YVTK&pd_rd_wg=nbGxT&pd_rd_r=d91ee397-cc43-41c9-a2b6-981a2ae5988b&pd_rd_i=1804090093&psc=1)
+
+[Amazon.com: Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn: 9780593329733: Oakley PhD, Barbara, Rogowsky EdD, Beth, Sejnowski, Terrence J.: Books](https://www.amazon.com/Uncommon-Sense-Teaching-Practical-Insights/dp/0593329732/ref=pd_sbs_d_sccl_2_8/134-3959372-8002529?pd_rd_w=GuGul&content-id=amzn1.sym.95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_p=95a2f7a9-53b4-4ea0-a9f5-3535e9450ac8&pf_rd_r=XA2392F3HF7PGP3YG4ZF&pd_rd_wg=mrM7a&pd_rd_r=4b9a55b1-2178-4b6a-9428-3e751966dcc3&pd_rd_i=0593329732&psc=1)
+
+
 
