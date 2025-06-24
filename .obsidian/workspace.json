@@ -35,7 +35,8 @@
               "title": "文案"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33c95b6ac41a6ac7",
+  "active": "c2a27aa97b9a6e3a",
   "lastOpenFiles": [
-    "编程/美国孩子编程学什么/文案.md",
     "编程/编程鄙视链/文案.md",
-    "AI/AI Websites for Kids/文案.md",
-    "编程/编程鄙视链",
     "AI/AI Websites for Kids/Websites.md",
+    "AI/AI Websites for Kids/文案.md",
+    "编程/美国孩子编程学什么/文案.md",
+    "编程/编程鄙视链",
     "家庭教育/北欧教育/Book Summary/Common Themes.md",
     "Resources/AI Prompts for Book Reviews/AI Prompt for a RedNote Summary.md",
     "家庭教育/北欧教育/书籍文件/Candidate List.md",
