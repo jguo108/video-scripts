@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9812fe7eb5a8d92",
+        "id": "a1c2b5fd8e0d4f31",
         "type": "tabs",
         "children": [
           {
-            "id": "33c95b6ac41a6ac7",
+            "id": "18688aaa4edc3883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/编程鄙视链/文案.md",
+                "file": "AI/AI Websites for Kids/文案.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "c2a27aa97b9a6e3a",
+            "id": "3c263b5fd558bd20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/美国孩子编程学什么/文案.md",
+                "file": "AI/AI Websites for Kids/文案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "文案"
+            }
+          },
+          {
+            "id": "654d4bdf53dcf23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI Websites for Kids/Websites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Websites"
             }
           }
         ],
@@ -184,27 +198,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a27aa97b9a6e3a",
+  "active": "3c263b5fd558bd20",
   "lastOpenFiles": [
-    "编程/编程鄙视链/文案.md",
     "AI/AI Websites for Kids/Websites.md",
     "AI/AI Websites for Kids/文案.md",
+    "家庭教育/北欧教育/文案.md",
     "编程/美国孩子编程学什么/文案.md",
-    "编程/编程鄙视链",
+    "编程/美国孩子编程学什么/Video/Final/title.txt",
+    "编程/美国孩子编程学什么/Video/Final/新建文本文档.txt",
+    "家庭教育/北欧教育/Book Summary/The Danish Way of Parenting.md",
+    "编程/编程鄙视链/文案.md",
+    "Resources/How To Teach Kids Coding/Websites.md",
+    "Resources/How To Teach Kids Coding",
+    "家庭教育/北欧教育/Book Summary/Teach Like Finland.md",
+    "家庭教育/北欧教育/Book Summary/There is no such thing as bad wheather.md",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/~$statistics.xlsx",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/statistics.xlsx",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/feeds10.html",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/feeds9.html",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/feeds8.html",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/feeds7.html",
+    "Resources/同类账号/WebCrawler/小红书/葵妈老夏/feeds6.html",
     "家庭教育/北欧教育/Book Summary/Common Themes.md",
+    "家庭教育/北欧教育/Book Summary/5 Messages.md",
+    "编程/美国孩子编程学什么/Video/Thumbnail/thumbnail.jpg",
+    "编程/美国孩子编程学什么/Video/Thumbnail/me thinking.jpg",
+    "编程/美国孩子编程学什么/Video/Stock Images/classroom.jpg",
+    "编程/美国孩子编程学什么/Video/Stock Images/us.jpg",
+    "编程/美国孩子编程学什么/Video/Stock Images/table.png",
+    "编程/美国孩子编程学什么/Video/Stock Images/maxresdefault (1).jpg",
+    "编程/美国孩子编程学什么/Video/Stock Images/usaco.png",
+    "编程/美国孩子编程学什么/Video/Stock Images/maxresdefault.jpg",
+    "编程/美国孩子编程学什么/Video/Stock Images/ml.png",
+    "编程/美国孩子编程学什么/Video/Stock Images/4x/Chart 1@4x.png",
     "Resources/AI Prompts for Book Reviews/AI Prompt for a RedNote Summary.md",
     "家庭教育/北欧教育/书籍文件/Candidate List.md",
-    "家庭教育/北欧教育/Book Summary/5 Messages.md",
     "Resources/AI Prompts for Book Reviews/Prompts to Get a Good Book Summary.md",
-    "家庭教育/北欧教育/Book Summary/Untitled",
-    "家庭教育/北欧教育/Book Summary",
-    "家庭教育/北欧教育/书籍文件/The Danish Way of Parenting_ Wh - Jessica Joelle Alexander.pdf",
-    "家庭教育/北欧教育/书籍文件/There's No Such Thing as Bad We - Linda Akeson McGurk.pdf",
-    "家庭教育/北欧教育/书籍文件/Teach Like Finland - Timothy D. Walker.pdf",
-    "家庭教育/北欧教育/书籍文件/The Danish Way of Parenting_ (Z-Library).epub",
-    "家庭教育/北欧教育/书籍文件/Theres No Such Thing as Bad_ (Z-Library).epub",
-    "家庭教育/北欧教育/书籍文件/Teach Like Finland 33 Simpl_ (Z-Library).epub",
-    "家庭教育/北欧教育/书籍文件",
     "其他/书本分享/备选书列表/List.md",
     "家庭教育/读书/Resources.md",
     "家庭教育/读书/Major Kids Book Publisher.md",
@@ -215,22 +244,6 @@
     "编程/Hour of Code/文案.md",
     "编程/Coding Apps for Beginners/我的文案.md",
     "编程/美国孩子编程学什么/资源集合/CodeWizardHQ.md",
-    "编程/美国孩子编程学什么/资源集合/Create & Learn.md",
-    "编程/美国孩子编程学什么/资源集合/国外少儿编程网站汇总.md",
-    "编程/美国孩子编程学什么/资源集合/Condingal.md",
-    "编程/美国孩子编程学什么/资源集合/CodeMonkey.md",
-    "视频制作资源/Background Music.md",
-    "其他/书本分享/提升孩子认知的5本书/Video/Thumbnail/thumbnail.jpg",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/encurance.jpg",
-    "其他/书本分享/提升孩子认知的5本书/文案.md",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/photo-wall-texture-pattern.jpg",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/black-concrete-textured-background.jpg",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/jump.png",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/16x/money.png",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/16x/Asset 1@16x.png",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/lego_onebridge_huge.jpg",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/everybody_jump_standing.png",
-    "其他/书本分享/提升孩子认知的5本书/Video/Stock Images/everybody_jump_jumping.png",
-    "编程/Why Learn Coding in AI Era/我的文案.md"
+    "编程/美国孩子编程学什么/资源集合/Create & Learn.md"
   ]
 }
