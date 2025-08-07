@@ -1,0 +1,5 @@
+
+| Topic                 | Link                                                                                                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                       | [Why the Traditional College Major May Be Holding Students Back in a Rapidly Changing Job Market – The 74](https://www.the74million.org/article/why-the-traditional-college-major-may-be-holding-students-back-in-a-rapidly-changing-job-market/) |
+| Don't Consume, Create |                                                                                                                                                                                                                                                   |

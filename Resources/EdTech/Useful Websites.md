@@ -13,6 +13,10 @@
 
 [EdShelf - Literacy Educators' and Resources Network](https://www.learnsask.net/edshelf.html)
 
+[K12 and Higher Education Technology News | EdTech Magazine](https://edtechmagazine.com/)
+
+
+
 ### General Education and Tech Blogs (with EdTech sections)
 
 https://www.edsurge.com/
@@ -21,7 +25,7 @@ https://www.iste.org/
 
 https://www.edweek.org/
 
-### 
+
 
 
 
