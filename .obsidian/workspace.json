@@ -8,63 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "604a3309e8717b74",
+            "id": "afffa257366d7e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "短视频创作知识库/素材库/怎么建立素材库.md",
+                "file": "短视频创作知识库/素材库/Database/家庭教育/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "怎么建立素材库"
+              "title": "General"
             }
           },
           {
-            "id": "ab71a633a507e71d",
+            "id": "641ba0e45f124d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家庭教育/Create not Consume/文案.md",
+                "file": "编程/TED Think Like a Coder/文案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "文案"
-            }
-          },
-          {
-            "id": "988dd50b00f27e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/MIT AI大赛/文案.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文案"
-            }
-          },
-          {
-            "id": "7e112d6d28014515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "短视频创作知识库/素材库/Database/Interesting Videos/AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,54 +184,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab71a633a507e71d",
+  "active": "afffa257366d7e96",
   "lastOpenFiles": [
-    "Resources/同类账号/WebCrawler/小红书/鹤老师/~$statistics.xlsx",
-    "Resources/Video Shared Resources/Thumbnail Background Images/lofoten.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images/swiss.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images/iceland2.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images/bg.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images/bg.webp",
-    "Resources/Video Shared Resources/Thumbnail Background Images/bg.webp.crdownload",
-    "Resources/Video Shared Resources/Thumbnail Background Images/iceland.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images/coffee.jpg",
-    "Resources/Video Shared Resources/Thumbnail Background Images",
-    "Resources/Video Shared Resources/新建文件夹",
-    "短视频创作知识库/素材库/Database/家庭教育/General.md",
-    "家庭教育/Create not Consume/文案.md",
-    "家庭教育/Create not Consume",
-    "短视频创作知识库/素材库/Database/家庭教育/思维.md",
-    "家庭教育/Alpha School/文案.md",
-    "AI/OpenAI革了教育的命/文案.md",
-    "家庭教育/Alpha School/Untitled",
-    "家庭教育/Alpha School",
-    "AI/MIT AI大赛/Video/Final/8月5日 (1).mp4",
-    "AI/MIT AI大赛/Video/Stock Footages/Map And Location Sensor • MIT APP INVENTOR 2 BASICS #MITBASE • E15.mp4",
-    "AI/MIT AI大赛/Video/Stock Footages/Global AI Hackathon 2025 Winners Announcement [Updated].mp4",
-    "AI/MIT AI大赛/Video/Stock Images/hackathon.png",
-    "AI/MIT AI大赛/Video/Stock Images/hackathon.png.crdownload",
-    "AI/OpenAI革了教育的命/Videos/Thumnbnail/thumbnail.jpg",
-    "AI/OpenAI革了教育的命/Videos/Thumnbnail/openai-modified.png",
-    "AI/MIT AI大赛/文案.md",
-    "短视频创作知识库/素材库/怎么建立素材库.md",
-    "短视频创作知识库/素材库/Database/编程/AI.md",
-    "短视频创作知识库/素材库/Database/编程/Python.md",
-    "短视频创作知识库/素材库/Database/Interesting Videos/AI.md",
+    "编程/BBC Wonderblocks/Video/Thumbnail/thumbnail.jpg",
+    "编程/BBC Wonderblocks/Video/Thumbnail/ps445A.tmp",
+    "编程/BBC Wonderblocks/Video/Thumbnail/fire.png",
+    "编程/BBC Wonderblocks/Video/Thumbnail/Untitled-1.png.~tmp",
+    "编程/BBC Wonderblocks/Video/Thumbnail/Untitled-1.png",
+    "编程/BBC Wonderblocks/Video/Thumbnail/il_fullxfull.2696921881_senc.jpg",
+    "编程/BBC Wonderblocks/Video/Thumbnail/il_fullxfull.2696921881_senc.webp",
+    "编程/BBC Wonderblocks/Video/Thumbnail/il_fullxfull.2696921881_senc.webp.crdownload",
+    "编程/BBC Wonderblocks/Video/Thumbnail/bbc.png",
+    "编程/BBC Wonderblocks/Video/Thumbnail/剧情.md.png",
+    "编程/BBC Wonderblocks/Video/Thumbnail/BBC-Logo.wine.png",
+    "编程/BBC Wonderblocks/Video/Thumbnail/BBC-Logo.wine.png.crdownload",
+    "编程/BBC Wonderblocks/Video/Thumbnail/thumbnail.psd",
+    "Resources/Video Shared Resources/Thumbnail Background Images/chamonix-mont-blanc-resort-alps-france-iren-key.jpg",
+    "Resources/Video Shared Resources/Thumbnail Background Images/chamonix-mont-blanc-resort-alps-france-iren-key.jpg.crdownload",
+    "Resources/Video Shared Resources/Thumbnail Background Images/~ake.tmp",
+    "Resources/Video Shared Resources/Thumbnail Background Images/lake.jpg.~tmp",
+    "Resources/Video Shared Resources/Thumbnail Background Images/lake.jpg",
+    "Resources/Video Shared Resources/Thumbnail Background Images/DSC_6500.jpg",
+    "编程/BBC Wonderblocks/Video/Final/8月20日.mp4",
+    "编程/BBC Wonderblocks/Video/Stock Footages/2025-08-21_15-47-40.mp4",
+    "编程/BBC Wonderblocks/文案.md",
+    "编程/BBC Wonderblocks/剧情.md",
+    "编程/TED Think Like a Coder/文案.md",
     "短视频创作知识库/素材库/Database/编程/编程通用.md",
-    "短视频创作知识库/素材库/Database/编程/编程思考.md",
-    "短视频创作知识库/素材库/Database/编程/Scratch.md",
-    "编程/Scratch书籍推荐/候选书籍.md",
-    "编程/Scratch书籍推荐/文案.md",
-    "短视频创作知识库/薛辉老师课程/文案/说观点文案.md",
-    "短视频创作知识库/薛辉老师课程/文案/教知识文案.md",
-    "编程/Scratch编辑器/文案.md",
-    "编程/Scratch Coding Youtubers/Resources.md",
+    "家庭教育/Alpha School/文案.md",
+    "短视频创作知识库/素材库/Database/Interesting Videos/AI.md",
+    "短视频创作知识库/素材库/Database/Interesting Videos/Untitled.md",
+    "[Alpha.md",
+    "短视频创作知识库/素材库/Database/家庭教育/General.md",
     "短视频创作知识库/素材库/Database/编程/网站推荐.md",
-    "短视频创作知识库/素材库/Database/编程/编程相关技巧.md",
-    "[Business.md",
-    "编程/Scratch Coding Youtubers/文案.md",
-    "编程/Youtubers to Follow/文案.md",
-    "Untitled.canvas",
-    "编程/Typing/Resources.md"
+    "短视频创作知识库/素材库/Database/家庭教育/如何学习.md",
+    "短视频创作知识库/素材库/Database/家庭教育/思维.md",
+    "短视频创作知识库/素材库/Database/编程/AI.md",
+    "短视频创作知识库/素材库/Database/编程/编程思考.md",
+    "短视频创作知识库/素材库/小红书关键词.md",
+    "短视频创作知识库/素材库/Database/编程/编程书籍.md",
+    "AI/Gemini StoryBook/Resources.md",
+    "短视频创作知识库/素材库/怎么建立素材库.md",
+    "AI/Gemini StoryBook/文案.md",
+    "编程/TED Think Like a Coder/剧本内容.md",
+    "家庭教育/MIT The Creative Spark/文案.md",
+    "[5th-6th.md",
+    "AI/MIT AI大赛/文案.md",
+    "家庭教育/Educators to follow/Resources.md",
+    "AI/ChapGPT5/文案.md",
+    "Untitled.canvas"
   ]
 }
