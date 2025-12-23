@@ -17,7 +17,7 @@ blogger = sys.argv[1]
 
 p = Path(blogger)
 if not any(p.iterdir()):
-    for i in range(10):
+    for i in range(20):
         with open(os.path.join(blogger, 'feeds' + str(i + 1) + '.html'), 'w') as f:
             pass
 

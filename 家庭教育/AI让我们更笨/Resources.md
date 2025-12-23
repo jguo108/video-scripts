@@ -1,0 +1,3 @@
+https://archive.is/ClSRM#selection-667.0-1409.18
+
+[(3) Alex Vacca on X: "BREAKING: MIT just completed the first brain scan study of ChatGPT users & the results are terrifying. Turns out, AI isn't making us more productive. It's making us cognitively bankrupt. Here's what 4 months of data revealed: (hint: we've been measuring productivity all wrong) https://t.co/OcHy9197tk" / X](https://x.com/itsalexvacca/status/1935343874421178762?s=46)

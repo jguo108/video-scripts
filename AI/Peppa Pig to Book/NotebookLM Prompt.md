@@ -1,0 +1,3 @@
+* Based on the sources, explain the concepts of decimal system, binary system and bits using only analogies involving mud, toys, playgrounds, or dinosaurs. Keep it simple enough for a preschooler. No jargon allowed.
+* Based on these concept explanation, write a short story script. Assume the role of narrator of the Peppa Pig cartoon. You speak in a calm, British accent. You use simple sentences. You often state the obvious. Characters include Peppa (bossy), George (says 'Dine-saw'), Mummy Pig (sensible), and Daddy Pig (confident but often wrong).
+* Base of the script, create a slide deck with the artistic style of the Peppa Pig illustrated book.

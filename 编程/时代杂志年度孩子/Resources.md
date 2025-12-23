@@ -1,0 +1,1 @@
+[TIME's Kid of the Year Is Protecting Seniors From Cybercrime | TIME](https://time.com/7315024/kid-of-the-year-2025/)
