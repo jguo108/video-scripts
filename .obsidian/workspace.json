@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/MIT Dancing with AI/样本文案2.md",
+                "file": "AI/AI Quest/文案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "样本文案2"
+              "title": "文案"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,30 +199,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "882ffecc8af66c59",
+  "active": "ae32fb6c6ef80d46",
   "lastOpenFiles": [
-    "AI/MIT Dancing with AI/文案.md",
+    "商业合作/Ktbyte/推荐KTByte/Video/Thumbnail/psBBC5.tmp",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_portrait Vertical.mp4.baiduyun.uploading.cfg",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_landscape.mp4.baiduyun.uploading.cfg",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_landscape.mp4",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/Ktbyte Landscape.mp4",
+    "商业合作/Ktbyte/推荐KTByte/Video/Thumbnail/thumbnail.psd",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_portrait Vertical.mp4",
+    "商业合作/Ktbyte/推荐KTByte/Video/Final/Ktbyte Vertical.mp4",
     "AI/AI Quest/样板文案.md",
-    "AI/MIT Dancing with AI/样板文案1.md",
     "AI/MIT Dancing with AI/样本文案2.md",
+    "AI/AI Quest/文案.md",
+    "AI/MIT Dancing with AI/文案.md",
+    "AI/MIT Dancing with AI/样板文案1.md",
     "短视频创作知识库/素材库/Database/11 Videos For Sep-Oct 2025.md",
     "商业合作/Ktbyte/推荐KTByte/文案.md",
     "AI/MIT Dancing with AI",
     "Resources/同类账号/如何模仿某个博主的文案风格.md",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_landscape.mp4",
-    "商业合作/Ktbyte/推荐KTByte/Video/Final/Ktbyte Landscape.mp4",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/文案风格(豆包).md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/聊聊硅谷大裁员对教育的启发.md",
     "家庭教育/AI让我们更笨/我的文案.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/从哈佛大学新研究说起….md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/文案风格(Gemini).md",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工研究发现AI正在重塑大脑.txt",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工爸爸说最不会被AI替代的7大能力.txt",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工爸爸聊教育变天.txt",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工最好的教育是啥样？.txt",
     "Resources/同类账号/Youtuber With Similar Vibe.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/既要又要式养娃，请勿对号入座！.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工研究发现AI正在重塑大脑.md",
@@ -235,8 +237,6 @@
     "AI/NotebookLM Infographics/Prompts.md",
     "AI Tools/AI Workflow and Agent/Collection.md",
     "AI Tools/Productivity/Collection.md",
-    "AI/NotebookLM Infographics/文案.md",
-    "AI Tools/Untitled.md",
     "AI/NotebookLM Infographics/Video/Thumbnail/thumbnail.jpg",
     "AI/NotebookLM Infographics/Video/Thumbnail/job493-ploy-gold-08.jpg",
     "AI/NotebookLM Infographics/Video/Thumbnail/v760-toon-02.jpg",
