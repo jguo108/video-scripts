@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6ee2b55ce380c2",
+        "id": "12f46b4b62e3f123",
         "type": "tabs",
         "children": [
           {
-            "id": "04b2f41a758b348f",
+            "id": "34a1390544a6c8e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/文案风格(豆包).md",
+                "file": "短视频创作知识库/素材库/Database/11 Videos For Sep-Oct 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文案风格(豆包)"
+              "title": "11 Videos For Sep-Oct 2025"
             }
           },
           {
-            "id": "d49955f3092902ea",
+            "id": "ae32fb6c6ef80d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/聊聊硅谷大裁员对教育的启发.md",
+                "file": "AI/MIT Dancing with AI/样本文案2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "聊聊硅谷大裁员对教育的启发"
+              "title": "样本文案2"
             }
           },
           {
-            "id": "cb393f0d48d227c3",
+            "id": "3ec2ae924d71b957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/从哈佛大学新研究说起….md",
+                "file": "AI/MIT Dancing with AI/样板文案1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从哈佛大学新研究说起…"
-            }
-          },
-          {
-            "id": "cac3493c1ac29fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/同类账号/如何模仿某个博主的文案风格.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何模仿某个博主的文案风格"
+              "title": "样板文案1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,27 +199,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cac3493c1ac29fce",
+  "active": "3ec2ae924d71b957",
   "lastOpenFiles": [
+    "AI/MIT Dancing with AI/样本文案2.md",
+    "AI/MIT Dancing with AI/样板文案1.md",
+    "短视频创作知识库/素材库/Database/11 Videos For Sep-Oct 2025.md",
+    "商业合作/Ktbyte/推荐KTByte/文案.md",
+    "AI/MIT Dancing with AI",
+    "Resources/同类账号/如何模仿某个博主的文案风格.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "短视频创作知识库/素材库/Database/11 Videos For Sep-Oct 2025.md",
-    "商业合作/Ktbyte/推荐KTByte/文案.md",
     "商业合作/Ktbyte/推荐KTByte/Video/Final/KTBYTE_landscape.mp4",
     "商业合作/Ktbyte/推荐KTByte/Video/Final/Ktbyte Landscape.mp4",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/文案风格(豆包).md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/聊聊硅谷大裁员对教育的启发.md",
     "家庭教育/AI让我们更笨/我的文案.md",
-    "Resources/同类账号/如何模仿某个博主的文案风格.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/从哈佛大学新研究说起….md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/文案风格(Gemini).md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工研究发现AI正在重塑大脑.txt",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工爸爸说最不会被AI替代的7大能力.txt",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工爸爸聊教育变天.txt",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工最好的教育是啥样？.txt",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/聊透AI时代教育的演讲竟然是AI写的….txt",
-    "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/聊聊硅谷大裁员对教育的启发.txt",
     "Resources/同类账号/Youtuber With Similar Vibe.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/既要又要式养娃，请勿对号入座！.md",
     "Resources/同类账号/WebCrawler/小红书/麻省理工巨蟹爸/视频文案/麻省理工研究发现AI正在重塑大脑.md",
@@ -260,7 +247,6 @@
     "AI/NotebookLM Infographics/Video/Stock Images/unnamed6.png",
     "AI/NotebookLM Infographics/Video/Stock Images/unnamed4.png",
     "AI/NotebookLM Infographics/Video/Stock Images/unnamed (1).png",
-    "商业合作/Ktbyte/Ktblock/文案.md",
     "Untitled.canvas"
   ]
 }
