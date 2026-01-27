@@ -1,0 +1,3 @@
+[(21) Machina on X: "you can create your own courses for ANY tool: 1. ask Gemini to deep research all educational YouTube videos about the tool 2. save all official documentation from the company's website 3. search relevant subreddits to find power user tips and real-world use cases 4. feed" / X](https://x.com/EXM7777/status/2001698733973729301?referrer=grok-com)
+
+[(21) Machina on X: "how to create your own course for any tool in 2hrs: step 1: ask Gemini to deep search all educational yt videos about the tool, it'll find the best tutorials and explanations that are already out there step 2: save all the official documentation from the company's website, this" / X](https://x.com/EXM7777/status/2007173051771994578?referrer=grok-com)

@@ -1,0 +1,1 @@
+[Google Workspace Updates: Generate presentations in the Gemini app](https://workspaceupdates.googleblog.com/2025/10/generate-presentations-in-gemini-app.html)
